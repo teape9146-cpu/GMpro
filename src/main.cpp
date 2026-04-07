@@ -2,8 +2,8 @@
 #include <esp_wifi.h>
 #include <WebServer.h>
 
-const char* ap_ssid = "ESP32_Deauther";
-const char* ap_password = "12345678";
+const char* ap_ssid = "GMpro";
+const char* ap_password = "Sangkur87";
 WebServer server(80);
 
 bool attack = false;
